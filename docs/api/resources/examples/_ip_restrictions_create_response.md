@@ -1,19 +1,16 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"created_at": "2025-03-26T10:06:59Z",
-	"enforced": false,
-	"id": "ipx_2uqkicXCbU2CClDXxWH6fqdENIw",
-	"ip_policies": [
-		{
-			"id": "ipp_2uqkibk3MhWCHbjKPiia7nPFXtk",
-			"uri": "https://api.ngrok.com/ip_policies/ipp_2uqkibk3MhWCHbjKPiia7nPFXtk"
-		}
-	],
-	"type": "dashboard",
-	"uri": "https://api.ngrok.com/ip_restrictions/ipx_2uqkicXCbU2CClDXxWH6fqdENIw"
+  "created_at": "2025-04-21T10:07:04Z",
+  "enforced": false,
+  "id": "ipx_2w2BwCugRjkbmsBVB6Cfo4KJ0us",
+  "ip_policies": [
+    {
+      "id": "ipp_2w2BwCD9JYKndvLwvkBk4KJtHTn",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_2w2BwCD9JYKndvLwvkBk4KJtHTn"
+    }
+  ],
+  "type": "dashboard",
+  "uri": "https://api.ngrok.com/ip_restrictions/ipx_2w2BwCugRjkbmsBVB6Cfo4KJ0us"
 }
-```
